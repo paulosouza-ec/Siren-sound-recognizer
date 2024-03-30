@@ -1,0 +1,22 @@
+Informações relevantes:
+ - Todos os códigos para execução estão na pasta "codigos" 
+ - Ajustar de acordo com o seu diretório. No codigo esta especificado onde deve ser mudado. Lembrando que para navegar entre pastas em python se utiliza a barra "/".
+
+Ordem de execução:
+1. base.py
+
+2. extratores
+
+ 2.1 fft_spec.py
+ 2.2 loud_energy.py
+ 2.3 spectral.py
+
+3. classif.py
+
+
+
+Quaisquer dúvida para rodar o projeto entrar em contato com:
+
+aab2@cin.ufpe.br
+iybp@cin.ufpe.br
+psgs@cin.ufpe.br
